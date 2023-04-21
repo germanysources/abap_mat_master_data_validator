@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZLINT_MAT_MATERIAL_COMPLETE</NAME>
+    <SUBC>1</SUBC>
+    <RLOAD>D</RLOAD>
+    <FIXPT>X</FIXPT>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <TPOOL>
+    <item>
+     <ID>R</ID>
+     <ENTRY>Prüfung Vollständigkeit Materialstamm</ENTRY>
+     <LENGTH>37</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>D_CREATE</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>9</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>MATNR_R</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>9</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>MTART_R</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>9</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+   </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Validation material master data is complete</ENTRY>
+       <LENGTH>70</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>D_CREATE</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>9</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>MATNR_R</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>9</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>MTART_R</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>9</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

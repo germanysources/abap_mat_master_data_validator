@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZLINT_MAT</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Materialstammprüfungen</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Für Bewertungstyp wird &amp;1 erwartet (Material &amp;2).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>001</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>002</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>003</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Fertigungssteuerungsprofil ist Pflichtangabe (Arbeitsvorbereitung)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Unbegrenzte Überlieferung ist für dieses Material Pflicht.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Für retrogarde Entnahme wird &amp;2 erwartet (Material &amp;1 Disposition 2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Lagerortdaten fehlen (Material &amp;1, Werk &amp;2, Lagerort &amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Werksdaten fehlen (Material &amp;1, Werk &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Buchhaltungsdaten fehlen (Material &amp;1, Bewertungskreis &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Stückliste fehlt (Material &amp;1, Werk &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Fertigungsversion fehlt (Material &amp;1, Werk &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Stückliste für Fertigungsversion (Material &amp;1, Werk &amp;2) nicht vorhanden.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Fertigungsrezept exisiert nicht (Fertigungsversion &amp;1 &amp;2 &amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Fertigungssteuerungsprofil fehlt (Material &amp;1, Werk &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Fertigungssteuerer fehlt (Material &amp;1, Werk &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Vertriebsdaten fehlen (Material &amp;1, Verkaufsorg. &amp;2, Vertriebsweg &amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Für Materialgruppe &amp;1 wurde &amp;2 erwartet (Material &amp;3, Verkaufsorg. &amp;4)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Material &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Das Material &amp;1 ist chargenpflichtig.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Zuordnung Material &amp;1 zu Kunde fehlt.</TEXT>
+    </T100>
+   </T100>
+   <LONGTEXTS>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>ZLINT_MAT000</OBJECT>
+      <LANGU>D</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0001</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00002</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>ZLINT_MAT000</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>D</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;CAUSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Der Bewertungstyp (Sicht Buchhaltung 1) muss für</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>=</TDFORMAT>
+       <TDLINE> Materialien &amp;V1&amp; sein.</TDLINE>
+      </TLINE>
+     </LINES>
+    </item>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>ZLINT_MAT005</OBJECT>
+      <LANGU>D</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0001</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00002</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>ZLINT_MAT005</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>D</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;CAUSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Unbegrenzte Überlieferung (Sicht Arbeitsvorbereitung) ist bei</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>=</TDFORMAT>
+       <TDLINE> Halbfabrikaten ein Pflichtfeld.</TDLINE>
+      </TLINE>
+     </LINES>
+    </item>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>ZLINT_MAT013</OBJECT>
+      <LANGU>D</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0001</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00005</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>ZLINT_MAT013</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>D</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;CAUSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Das Fertigungsrezept bzw. der Fertigungsplan existiert nicht für</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>=</TDFORMAT>
+       <TDLINE> Material &amp;V1&amp; Werk &amp;V2&amp; Fertigungsversion &amp;V3&amp;.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;WHAT_TO_DO&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Fertigungsrezept bzw. -pläne werden in den Transaktion C201, C202 und</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>=</TDFORMAT>
+       <TDLINE> C203 verwaltet. Die Zuordnung Fertigungsrezept bzw. -plan zu Fertigungs</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>=</TDFORMAT>
+       <TDLINE>version findet in der Transaktion C223 statt.</TDLINE>
+      </TLINE>
+     </LINES>
+    </item>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>ZLINT_MAT020</OBJECT>
+      <LANGU>D</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0001</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00001</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>ZLINT_MAT020</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>D</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE/>
+      <TLINE/>
+      <TLINE/>
+      <TLINE/>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;WHAT_TO_DO&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>Die Zuordnung wird in den Transaktion VD51, VD52 und VD52 gepflegt.</TDLINE>
+      </TLINE>
+      <TLINE/>
+      <TLINE/>
+      <TLINE/>
+      <TLINE/>
+      <TLINE/>
+      <TLINE/>
+     </LINES>
+    </item>
+   </LONGTEXTS>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLINT_MAT</ARBGB>
+     <STEXT>Material master data valuation</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>Expected &amp;1 for valuation category (Material &amp;2).</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Production supervisor</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Production scheduling profile is mandatory</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>Unlimited Overdelivery Allowed indicator is mandatory</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>006</MSGNR>
+     <TEXT>Expected &amp;2 for backflush indicator (Material &amp;1 MRP 2).</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>007</MSGNR>
+     <TEXT>Storage location data is missing (Material &amp;1, Plant &amp;2, Location &amp;3)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>008</MSGNR>
+     <TEXT>Plant data is missing (Material &amp;1, Plant &amp;2)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>009</MSGNR>
+     <TEXT>Accounting data is missing (Material &amp;1, Valuation area &amp;2)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>010</MSGNR>
+     <TEXT>BOM is missing (Material &amp;1, Plant &amp;2)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>011</MSGNR>
+     <TEXT>Production version is missing (Material &amp;1, Plant &amp;2)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>012</MSGNR>
+     <TEXT>BOM in production version (Material &amp;1, Plant &amp;2) is missing.</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>013</MSGNR>
+     <TEXT>Production recipe is missing (Production version &amp;1 &amp;2 &amp;3)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>014</MSGNR>
+     <TEXT>Production scheduling profile missing (Material &amp;1, plant &amp;2)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>015</MSGNR>
+     <TEXT>Production supervisor missing (Material &amp;1, Plant &amp;2)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>016</MSGNR>
+     <TEXT>Sales org. data missing (Material &amp;1, Sales org. &amp;3, Dist. Channel &amp;4).</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>017</MSGNR>
+     <TEXT>Expected &amp;2 for material group &amp;1 (Material &amp;3, sales org &amp;4)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>018</MSGNR>
+     <TEXT>Material &amp;1 &amp;2</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>019</MSGNR>
+     <TEXT>Batch management indicator for material &amp;1 is mandatory</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>020</MSGNR>
+     <TEXT>Assignment Material &amp;1 to customer is missing.</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZLINT_MAT_RECIPE_CHECK</NAME>
+    <SUBC>1</SUBC>
+    <RLOAD>D</RLOAD>
+    <FIXPT>X</FIXPT>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Stücklistenpositionen keiner Phase zugeordnet. Material:</ENTRY>
+     <LENGTH>112</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>Keine Stückliste im Fertigungsrezept vorhanden. Material:</ENTRY>
+     <LENGTH>114</LENGTH>
+    </item>
+    <item>
+     <ID>R</ID>
+     <ENTRY>Prüfung Fertigungsrezept</ENTRY>
+     <LENGTH>27</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>ITEM_NO</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>25</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>PLANT</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>12</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>REC_NO</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>18</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>TYPE</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>15</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+   </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>BOM item not assigned to phase. Material:</ENTRY>
+       <LENGTH>112</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>BOM in the production recipe is missing. Material:</ENTRY>
+       <LENGTH>114</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Validation Production Recipe</ENTRY>
+       <LENGTH>70</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>ITEM_NO</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>25</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>PLANT</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>12</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>REC_NO</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>18</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>TYPE</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>15</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

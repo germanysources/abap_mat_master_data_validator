@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZLINT_MAT_ASSIGNMENT_TO_CUST</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <DOMNAME>SAP_BOOL</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Zuordnung zu Kunden in Tabelle KNMT muss existieren</DDTEXT>
+    <REPTEXT>Zuordnung zu Kunden in Tabelle KNMT muss existieren</REPTEXT>
+    <SCRTEXT_S>Zu. Kunde</SCRTEXT_S>
+    <SCRTEXT_M>Zu. Kunde Pflicht</SCRTEXT_M>
+    <SCRTEXT_L>Zuordnung zu Kunden (Tab. KNMT) Pflicht</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Assignment to customer in table KNMT must exists.</DDTEXT>
+     <REPTEXT>Assignment to customer in table KNMT must exists.</REPTEXT>
+     <SCRTEXT_S>Assign. cu</SCRTEXT_S>
+     <SCRTEXT_M>Assignment cust.</SCRTEXT_M>
+     <SCRTEXT_L>Assignment to customer mandatory</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
