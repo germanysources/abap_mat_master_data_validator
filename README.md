@@ -5,7 +5,7 @@ Components are:
 - Sales organisation data in table `MVKE`
 - Plant data in table `MARC`
 - Storage location data in table `MARD`
-- Accounting in table `MBEW`
+- Accounting data in table `MBEW`
 - BOMs
 - Production versions and
 - Production recipes.
